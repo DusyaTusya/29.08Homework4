@@ -18,4 +18,4 @@ i = c.intersection(d) # находим элементы, которые встр
 print(c)
 print(d)
 print(i)
-print(*sorted(i,reverse=True))
+print(*sorted(i))
